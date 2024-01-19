@@ -1,1 +1,2 @@
-document.body.innerHTML = '<h1>hello from script</h1>'
+document.body.innerHTML = '<h1>hello from script twice</h1>'
+console.log('test2')
